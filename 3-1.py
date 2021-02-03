@@ -1,0 +1,10 @@
+sport=[] 
+sport.append('run')
+sport.append('baseball')
+sport.append('basketball')
+sport.append('volleyball')
+print(sport)
+sport.insert(0,'bathroom')
+sport.insert(2,123)
+sport.remove('volleyball')
+print(sport)
